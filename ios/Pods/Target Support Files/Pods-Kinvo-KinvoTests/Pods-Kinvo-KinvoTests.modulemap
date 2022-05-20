@@ -1,0 +1,6 @@
+module Pods_Kinvo_KinvoTests {
+  umbrella header "Pods-Kinvo-KinvoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
