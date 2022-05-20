@@ -1,14 +1,15 @@
+# Sobre
 Projeto feito para participar do processo seletivo da Kinvo para a vaga de Desenvolvedor Mobile (React Native).
 Foi usado:
-- React Native;
-- TypeScript;
-- Styled Components;
+- `React Native`;
+- `TypeScript`;
+- `Styled Components`.
 
-# React Native Code Challenge 
-Seja bem-vindo! Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vagas de Desenvolvedor voltadas para o desenvolvimento mobile, independente da senioridade, considerando o framework `React Native`. O nível de exigência da avaliação se adequa ao nível da vaga.
+### React Native Code Challenge - Kinvo
+Este desafio foi projetado para avaliar a capacidade técnica de candidatos à vagas de Desenvolvedor voltadas para o desenvolvimento mobile, independente da senioridade, considerando o framework `React Native`. O nível de exigência da avaliação se adequa ao nível da vaga.
 
 
-## Instruções:
+### Instruções:
 1. Faça um `fork` deste repositório;
 2. Siga as especificações;
 3. Implemente o layout disponível;
@@ -22,7 +23,7 @@ Nossos critérios de avaliação se baseiam e 3 grandes áreas, sendo elas:
 3. Qualidade de Código
 
 
-## Especificações:
+### Especificações:
 O desafio consiste em desenvolver um aplicativo de **4 telas**. Sendo **3 obrigatórias** e **1 opcional**:
 - Obrigatórias:
   - Tela "Desafio" (Tela inicial)
@@ -68,7 +69,7 @@ As telas que contem chamadas a API devem estar preparadas para tratar estados de
    - "R$100,00": inclui as previdências com valor mínimo igual a cem reais.
    - "D+1": inclui as previdências com resgate igual a um.
 
-### O que iremos avaliar
+### O que será avaliado
 - Capacidade de abstração;
 - Simplicidade da solução;
 - Componentização;
@@ -80,7 +81,7 @@ As telas que contem chamadas a API devem estar preparadas para tratar estados de
 - Arquitetura limpa e princípios de `SOLID`;
 - Utilizar `Styled Components`;
 
-## Material:
+### Material:
 - O layout em formato Adobe XD consta no repositório em [/material](/material) ou através [desse link](https://xd.adobe.com/view/bdf98d73-524d-41b3-96ac-1f1813d75809-e8aa/);
 - Imagens e Ícones podem ser exportados do Adobe XD (Aalho: CTRL + E / CMD + E)
   - Os `assets` para exportação estão agrupados em **Componentes** e podem ser facilmente exportados da seguinte utilizando o grupo Ativos no modo de desnvolvimento do Adobe XD Web.
