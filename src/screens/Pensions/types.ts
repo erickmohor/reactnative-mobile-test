@@ -9,5 +9,6 @@ export interface IPensions {
 }
 
 export type PensionsStyle = {
-        verticalAlign?: "top" | "center"
+        verticalAlign?: "flex-start" | "center" | "flex-end"
+        horizontalAlign?: "flex-start" | "center" | "flex-end"
 }
